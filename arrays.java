@@ -12,12 +12,13 @@ public class arrays {
         }
         System.out.print("\n");
 
-        String [] names={"saranya","deepa","suprathi","adhvaithan","aadhiran"};
+        String [] names={"saran","deepa","suprathi","adhvaithan","aadhiran"};
         for(String n: names){
             
             System.out.print(n);
             System.out.print("\n");
         }
+        System.out.println("from github");
         
     }   
 }
